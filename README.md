@@ -2,8 +2,6 @@
 
 This project presents a "Digital Twin" of an AI-powered smart sprinkler system designed for precision agriculture, specifically tailored for the unique needs of a North East Indian tea garden. Instead of just watering on a schedule, this system uses an AI model to make intelligent, real-time decisions based on a variety of environmental factors.
 
-➡️ **[Try the Live App Here!](#)** ⬅️
-*(Note: Replace the `#` with your actual live app URL)*
 
 ---
 
